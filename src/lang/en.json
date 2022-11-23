@@ -1,0 +1,96 @@
+{
+  "header":{
+    "aboutUs": "ABOUT US",
+    "games": "GAMES",
+    "partners": "PARTNERS",
+    "contactUs": "CONTACT US"
+  },
+  "sc_banner":{
+    "title": "We’re <br class=d-md-none>Getting Ready",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "second": "Second",
+    "sendmail_text": "We will back to something amazing. Getting the latest updates about our games. Please sign up to our newsletter.",
+    "sendmail_input_placeholder": "Enter your email"
+  },
+  "sc_about":{
+    "title": "About Us",
+    "des": "Browse our selection of free online games and have a great time without leaving the site! Our Kids Games option also includes game reviews, extensive game cheats and walkthroughs, and much more. We have exclusive free downloads, videos, and articles as well. Etech reviews the most popular kids games from all the most popular video gaming platforms, so you don’t need to search around for fun anywhere else on the Internet. Explore a whole new world of gaming on Etech.",
+    "users": "Users",
+    "games": "Games",
+    "box_title1": "24 - Hour",
+    "box_des1": "24/7 access ensures operators' businesses runs smoothly all year long.",
+    "box_title2": "Design",
+    "box_des2": "Combining imaginative universes, play dynamics, and unprecedented gameplay, our games transcend the boundaries of the virtual world by weaving innovative gameplay.",
+    "box_title3": "Team",
+    "box_des3": "Etech is an award-winning, international studio of designers, artists, animators and producers that create content for the biggest names in film and video games. "
+  },
+  "sc_games":{
+    "title": "Our Games",
+    "des": "As a pioneer of mobile app gamification, we take pride in originality and individuality, providing global players with state-of-the-art games that feature splendid storylines, sensational sound effects and magnificent animation that never cease to impress.",
+    "items": [
+      {
+        "item_title": "24 - Hour",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Pirates",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Magic tree",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Kingland",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Witch Party",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Aborigines",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "The Last Game",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Rocky",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Cinderella",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "G-Dragon",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Blue Fire",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "item_title": "Egypt Game",
+        "item_des": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      }
+    ]
+    
+  },
+  "sc_partners":{
+    "title": "Our Partners"
+  },
+  "sc_footer":{
+    "address_title": "Address",
+    "address1": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, US",
+    "address2": "20 Phan Dang Luu street, Hai Chau District, Danang city, Vietnam",
+    "address_or": "or",
+    "subscribe_title": "Subscribe",
+    "subscribe_des": "Subscribe to our newsletter and be the first to know about our updates",
+    "newsletter_input_placeholder": "Enter your email"
+  }
+}
